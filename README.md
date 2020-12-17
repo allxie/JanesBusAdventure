@@ -1,0 +1,1 @@
+### To run test cases, run `node index.js` in your terminal.
